@@ -1,4 +1,3 @@
-import SalonShowcase from "@/components/salon-showcase/SalonShowcase";
 import SocialLinks from "@/components/socials/Socials";
 
 const HairSalon = () => {
